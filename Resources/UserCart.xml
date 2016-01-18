@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShoppingCart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <ItemId>2</ItemId>
+      <ItemCode>7290014759992</ItemCode>
+      <ItemName>רוקפור פלח</ItemName>
+      <UnitQty>גרמים</UnitQty>
+      <IsWeighted>false</IsWeighted>
+      <Amount>2</Amount>
+      <Price>21.3</Price>
+    </Product>
+    <Product>
+      <ItemId>5</ItemId>
+      <ItemCode>7290014759985</ItemCode>
+      <ItemName>פרמזן פלח 200 גר</ItemName>
+      <UnitQty>גרמים</UnitQty>
+      <IsWeighted>false</IsWeighted>
+      <Amount>1</Amount>
+      <Price>26.3</Price>
+    </Product>
+    <Product>
+      <ItemId>7</ItemId>
+      <ItemCode>72961544</ItemCode>
+      <ItemName>באדי תות125 מל</ItemName>
+      <UnitQty>מיליליטרים</UnitQty>
+      <IsWeighted>false</IsWeighted>
+      <Amount>23</Amount>
+      <Price>3.5</Price>
+    </Product>
+    <Product>
+      <ItemId>10</ItemId>
+      <ItemCode>80518532743</ItemCode>
+      <ItemName>שקית בלון 50 בלונים</ItemName>
+      <UnitQty>Unknown </UnitQty>
+      <IsWeighted>false</IsWeighted>
+      <Amount>2</Amount>
+      <Price>15.9</Price>
+    </Product>
+  </Products>
+</ShoppingCart>

@@ -1,0 +1,36 @@
+﻿2. save carts / users
+7. amount - double .... int...
+8. cheapest products dropdown
+10. remove unitqty / itemcode from display ?
+
+
+
+signing in outcomes :
+1. both right 
+2. username exists, password bad
+3. username not exists
+
+signing up :
+1. username bad characters
+2. password bad characters
+3. username exists
+4. all good
+
+difficulties
+linq
+datasource 2 way
+databinding
+
+features:
+
+intersect
+			dispatcher async await
+			users
+			carts for users
+			dynamic stuff carts providers
+
+			tech oriented
+			english
+			invest study
+			networking
+			resources-yotam/staas/haim

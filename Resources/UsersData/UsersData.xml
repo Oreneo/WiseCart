@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UsersDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <User>
+      <Username>Oren</Username>
+      <Password>1234</Password>
+    </User>
+    <User>
+      <Username>Oren22</Username>
+      <Password>12345</Password>
+    </User>
+    <User>
+      <Username>Oreneo</Username>
+      <Password>1234</Password>
+    </User>
+    <User>
+      <Username>Orna</Username>
+      <Password>12</Password>
+    </User>
+    <User>
+      <Username>Oren24</Username>
+      <Password>1234</Password>
+    </User>
+    <User>
+      <Username>oren</Username>
+      <Password>1234s</Password>
+    </User>
+  </Users>
+</UsersDB>
